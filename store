@@ -1,0 +1,4 @@
+class store {
+   int store_addr = 10171;
+   string store_name = "CVS"
+}
